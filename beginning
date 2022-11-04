@@ -1,0 +1,51 @@
+<html>
+  <head>
+    <title>Eow</title>
+    <style>
+      body{
+         background: #0000;
+         color: #054a29:
+       }
+     </style>
+   </head>
+   <body>
+    <h1>Lizard in the Next Life</h1>
+
+    <p> Welcome home. Here we Are. You've Found the Key</p>
+    <!--Here we would implement some sort of maybe password? so if--->
+    <!---they have access then they can view more things.--->
+    <!--ie. I can access a certain levl n some for others as well-->
+    <p> This is a website I am creating to brain fart and also to learn html again?<p>
+    <p>this is cause I have too many thoughts and also lizards. </p>
+
+
+    <!--- uh make the background green or something. add some fonts and also some colors and pictures. Make it perfect--->
+    <p> everyone is elected by a lizard to be reborn as a lizard</p>
+
+    <img src="img.jpg" alt="epic lizard" width="500" height="600">
+    <h2> HTML Tidbit </h2>
+
+    <p>when creating the literal internet, html was made to then go on to make the internet which is legitamately a bunch of html</p>
+    <p> code that is based on other html code to write its own html code</p>
+    <p>Websites that right code for you basically just use code written about some things</p>
+    <p>to run other code that someone wrote to complete more tasks</p>
+    <p>this is ridiculous jesus fuck</p>
+    <h3>Coding is math and also witch craft</h3>
+    <h2> How does it all boil down to ones and zeros?</h2>
+    <h1>Anyways, I am learning a lot of code right now I can feel it commiting to memory</h1>
+    <h1> I think that I need to continue doing things because I learn fast and forget fast.</h1>
+    <!---youre being a crazy lady get a grip and talk about lizards--->
+    <p> I think I will call this Brain</p>
+
+
+
+    <p>This is the single bestest thing ever.</p>
+    <p>The internet is just where people basically have to pay to put their things on the online web instead of through cables and shit.</p>
+    <p>so instead of manually sending the code back and forth the internet does it automatically and calls all these little function names</p>
+    <p>and then a search engine is just searching the internet for the function name you want and then you click it and it calls the funtion names</p>
+    <p>I have just reverse engineered the internet to myself. and it all started as me wanting to put "lizardinthenextlife.edu" in my twitter bio</p>
+    <p> that has turned into a need to create the domain which goes to a weebly things and then understanding how those things work and the unternet and search engines</p>
+
+    <p>realizing im talking about wysiwyg editors as opposed go text-based</p>
+  </body>
+</html>
