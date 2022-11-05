@@ -1,14 +1,8 @@
 <html>
   <head>
     <title>Eow</title>
-    <style>
-      body{
-         background: #0000;
-         color: #054a29:
-       }
-     </style>
    </head>
-   <body>
+   <body style="background-color:grey;">
     <h1>Lizard in the Next Life</h1>
 
     <p> Welcome home. Here we Are. You've Found the Key</p>
